@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVd1BuUlTU20LBE6zoZtqXRsV+O8RgxWYybboIn9KlCohTsblcJHzwia5rSPWP3XyPRTDseWZuFUsz6MwLgSdg==",
+  "success": true,
+  "projectFilePath": "/home/sigi/.config/JetBrains/Rider2021.2/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/VCSBasics.csproj",
+  "expectedPackageFiles": [
+    "/home/sigi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/sigi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/sigi/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.18/microsoft.netcore.app.host.linux-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
